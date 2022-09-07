@@ -1,3 +1,6 @@
+Altered by Iris Xu
+This repo contains all files in espeak 1.48 that needed by mingw-64.
+
 These are instructions to built the library on MS Windows, using msys and mingw.
 This library is fully functional, contrary to the library described
 in windows_dll directory.
